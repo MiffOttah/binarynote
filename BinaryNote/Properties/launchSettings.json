@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BinaryNote": {
+      "commandName": "Project",
+      "commandLineArgs": "\"F:\\TempTemp\\test.txt\" \"F:\\TempTemp\\test2.txt\""
+    }
+  }
+}
